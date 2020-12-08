@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/News_alan_ai_react/static/css/main.a92e1a71.chunk.css",
+    "main.js": "/News_alan_ai_react/static/js/main.d3091e13.chunk.js",
+    "main.js.map": "/News_alan_ai_react/static/js/main.d3091e13.chunk.js.map",
+    "runtime-main.js": "/News_alan_ai_react/static/js/runtime-main.c0df0414.js",
+    "runtime-main.js.map": "/News_alan_ai_react/static/js/runtime-main.c0df0414.js.map",
+    "static/js/2.c64369cd.chunk.js": "/News_alan_ai_react/static/js/2.c64369cd.chunk.js",
+    "static/js/2.c64369cd.chunk.js.map": "/News_alan_ai_react/static/js/2.c64369cd.chunk.js.map",
+    "index.html": "/News_alan_ai_react/index.html",
+    "static/css/main.a92e1a71.chunk.css.map": "/News_alan_ai_react/static/css/main.a92e1a71.chunk.css.map",
+    "static/js/2.c64369cd.chunk.js.LICENSE.txt": "/News_alan_ai_react/static/js/2.c64369cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0df0414.js",
+    "static/js/2.c64369cd.chunk.js",
+    "static/css/main.a92e1a71.chunk.css",
+    "static/js/main.d3091e13.chunk.js"
+  ]
+}
